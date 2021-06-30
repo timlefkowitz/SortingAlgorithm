@@ -1,0 +1,75 @@
+
+class Result {
+  
+
+
+    /*
+     * Complete the 'howManySwaps' function below.
+     *
+     * The function is expected to return a LONG_INTEGER.
+     * The function accepts INTEGER_ARRAY arr as parameter.
+     */
+
+    public static long howManySwaps(List<Integer> arr) {
+        
+       // hey guys, I'm about to graduate from a bootcamp and doing the final project alone. I'm learning springboot, mvc, 
+       
+       
+       //I would want to make a list
+       
+       
+       // Okay I was a little unsure of mapToObj. But then I discovered this arrow function! in java? is this a arrow function in java? -> OMG here comes a block {  } /// IOExeptions are great! They help me see the errors. 
+       
+       
+       // HAshmap LOL
+       
+       IOPInputStream<String, String> capitalcities = new HashMap<String, String>();
+       
+       
+       
+       
+        public static InputStreamReader(){
+           
+       }
+        InputStreamReader(InputStream);
+ 
+        String inputStreamReader(){};
+        public static void main(String[] args){
+            BufferedReader<String> bufferedReader = new BufferedReader(inputStreamReader(System.in));
+            BufferedWriter<String> bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTTTTTT PUTTTTTT ")));
+        
+       
+       int arrayCount = Integer.parseInt(bufferedReader.readLine().trim());
+       String inputStreamReader = "input";
+       
+       
+       
+       List<Integer> arrary = IntputStream.range(0, arrayCount).mapToObj(i -> {
+    
+           try {
+               return bufferedReader.readLine().replaceAll("\\s+$",""); // the replacing strings here is always funny to me
+               {
+                   catch (IOExeption ex){
+                       throw new RuntimeException(ex);
+                   }
+               }
+       })
+       .map(String::trim)
+       .map(Integer::parseInt)
+       .collect(toList());
+       
+       long result = Result.howManySwaps(arr);
+       
+       bufferedWrite.write(String.valueOf(result));
+       bufferedWrite.newLine();
+       
+       bufferedReader.close(); //I usually type faster guys
+       bufferedWrite.close();
+       ///// v arrCount is an Integer like 9 || 8 and parse is making sure its and Integer/incase String
+
+
+    
+        }}
+    }
+
+}
