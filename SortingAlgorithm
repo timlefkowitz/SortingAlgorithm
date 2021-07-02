@@ -12,16 +12,6 @@ class Result {
 
     public static long howManySwaps(List<Integer> arr) {
         
-       // hey guys, I'm about to graduate from a bootcamp and doing the final project alone. I'm learning springboot, mvc, 
-       
-       
-       //I would want to make a list
-       
-       
-       // Okay I was a little unsure of mapToObj. But then I discovered this arrow function! in java? is this a arrow function in java? -> OMG here comes a block {  } /// IOExeptions are great! They help me see the errors. 
-       
-       
-       // HAshmap LOL
        
        IOPInputStream<String, String> capitalcities = new HashMap<String, String>();
        
